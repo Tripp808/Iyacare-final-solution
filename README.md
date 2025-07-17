@@ -87,6 +87,17 @@ npm run dev
 - Real-time data from IoT devices (when available)
 - Full AI risk assessment functionality
 
+### 📹 5-Minute Demo Video
+**Watch the complete IyàCare system demonstration**: https://www.loom.com/share/8850433fe9b14ca6a077ad5a3c6f67b3?sid=3d5ef922-b9f3-4b9b-b205-491a44766938
+
+This demo video showcases:
+- Live web application functionality at https://iyacare-app.vercel.app
+- Patient dashboard with 28 synthetic patient records
+- Real-time IoT device monitoring with ESP32 sensors
+- AI risk assessment model predictions
+- Firebase database real-time synchronization
+- Complete maternal healthcare workflow demonstration
+
 ---
 
 ## COMPREHENSIVE TESTING RESULTS
