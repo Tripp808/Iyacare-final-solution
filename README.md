@@ -56,15 +56,16 @@ The easiest way to experience IyàCare is through the live deployed application:
 #### Installation Steps
 ```bash
 # Clone the IyàCare repository
-git clone https://github.com/your-username/iyacare.git
-cd iyacare
+git clone https://github.com/Tripp808/iyacare-app.git
+cd iyacare-app
 
 # Install dependencies
 npm install
 
 # Set up environment variables
 # Create .env.local file with Firebase configuration
-# (Contact repository owner for environment variables)
+# Contact repository owner for Firebase environment variables
+# Required: FIREBASE_API_KEY, FIREBASE_AUTH_DOMAIN, etc.
 
 # Run development server
 npm run dev
