@@ -52,6 +52,7 @@ The easiest way to experience IyàCare is through the live deployed application:
 - Node.js 18+ installed
 - Git installed
 - Internet connection for Firebase and AI model access
+- The github of the actual app https://github.com/Tripp808/iyacare-app.git
 
 #### Installation Steps
 ```bash
