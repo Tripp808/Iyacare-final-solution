@@ -108,12 +108,12 @@ npm run dev
 | **Average** | **94.3/100** | **71.3/100** | **-23 points** |
 
 ### Screenshot Evidence
-![Chrome Desktop Performance](web-performance-and-cross-platform-test-results/chrome/chrome-desktop-performance.png)
-![Chrome Mobile Performance](web-performance-and-cross-platform-test-results/chrome/chrome-mobile-performance.png)
-![Edge Desktop Performance](web-performance-and-cross-platform-test-results/edge/edge-desktop-performance.png)
-![Edge Mobile Performance](web-performance-and-cross-platform-test-results/edge/edge-mobile-performance.png)
-![Firefox Desktop Performance](web-performance-and-cross-platform-test-results/firefox/firefox-desktop-performance.png)
-![Firefox Mobile Performance](web-performance-and-cross-platform-test-results/firefox/firefox-mobile-performance.png)
+![Chrome Desktop Performance](web-performance-and-cross-platform-test-results/chrome/chrome-desktop.jpg)
+![Chrome Mobile Performance](web-performance-and-cross-platform-test-results/chrome/chrome-mobile.jpg)
+![Edge Desktop Performance](web-performance-and-cross-platform-test-results/edge/edge-desktop.jpg)
+![Edge Mobile Performance](web-performance-and-cross-platform-test-results/edge/edge-mobile.jpg)
+![Firefox Desktop Performance](web-performance-and-cross-platform-test-results/firefox/mozilla-desktop.jpg)
+![Firefox Mobile Performance](web-performance-and-cross-platform-test-results/firefox/mozilla-mobile.jpg)
 
 ### Key Findings
 - **✅ Excellent Desktop Performance**: 94.3/100 average across all browsers
