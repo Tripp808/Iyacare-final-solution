@@ -4,7 +4,7 @@
 **Assignment by**: Oche David Ankeli  
 **Supervisor**: Marvin Ogore  
 **Submission Date**: 7/8/2025  
-**Live Application**: https://iyacare-app.vercel.app
+**Live Application**: https://www.iyacare.site/
 
 ---
 
@@ -13,7 +13,7 @@
 IyàCare is a comprehensive maternal healthcare management system featuring a Next.js web application, AI-powered risk assessment model, Firebase real-time database, ESP32 IoT health monitoring devices, and blockchain technology for secure healthcare data management. This document presents comprehensive testing results demonstrating system functionality across different testing strategies, data values, and hardware/software specifications.
 
 ### System Architecture Overview
-- **Web Application**: Next.js deployed on Vercel (https://iyacare-app.vercel.app)
+- **Web Application**: Next.js deployed on custom domain (https://www.iyacare.site/)
 - **AI Model**: Risk assessment deployed on Render (https://iyacare-app.onrender.com)
 - **Database**: Firebase Realtime Database with 28 synthetic patient records
 - **IoT Devices**: ESP32 with MAX30100 sensors for continuous health monitoring
@@ -24,7 +24,7 @@ IyàCare is a comprehensive maternal healthcare management system featuring a Ne
 **Watch the complete IyàCare system demonstration**: https://www.loom.com/share/8850433fe9b14ca6a077ad5a3c6f67b3?sid=3d5ef922-b9f3-4b9b-b205-491a44766938
 
 This demo video showcases:
-- Live web application functionality at https://iyacare-app.vercel.app
+- Live web application functionality at https://www.iyacare.site/
 - Patient dashboard with 28 synthetic patient records
 - Real-time IoT device monitoring with ESP32 sensors
 - AI risk assessment model predictions
@@ -38,7 +38,7 @@ This demo video showcases:
 ### Option 1: Use Live Deployed Application (Recommended)
 The easiest way to experience IyàCare is through the live deployed application:
 
-1. **Visit Live Application**: https://iyacare-app.vercel.app
+1. **Visit Live Application**: https://www.iyacare.site/
 2. **Create Account**: Sign up with your email and password
 3. **Start Using**: 
    - View patient dashboard with 28 synthetic patient records
@@ -89,7 +89,7 @@ npm run dev
 - **Responsive Design**: Works on desktop and mobile devices
 
 ### Live System Components
-- **Web App**: https://iyacare-app.vercel.app (Frontend)
+- **Web App**: https://www.iyacare.site/ (Frontend)
 - **AI Model**: https://iyacare-app.onrender.com (Backend API)
 - **Database**: Firebase Realtime Database (Live patient data)
 - **IoT Integration**: ESP32 devices streaming real-time vital signs
@@ -110,7 +110,7 @@ npm run dev
 - **Browsers Tested**: Chrome, Edge, Firefox
 - **Platforms**: Desktop and Mobile environments
 - **Testing Tool**: Google Lighthouse Performance Audits
-- **Application URL**: https://iyacare-app.vercel.app
+- **Application URL**: https://www.iyacare.site/
 
 ### Performance Results Summary
 | Browser | Desktop Performance | Mobile Performance | Performance Gap |
@@ -390,7 +390,7 @@ The IyàCare system demonstrates seamless integration across all components:
 5. **Clinical Decision Support** → Integrated system enables comprehensive maternal healthcare management
 
 ### Production Deployment Success
-- **✅ Live Web Application**: https://iyacare-app.vercel.app operational
+- **✅ Live Web Application**: https://www.iyacare.site/ operational
 - **✅ Active AI Model**: https://iyacare-app.onrender.com processing predictions
 - **✅ Populated Database**: 28 patient records supporting system functionality
 - **✅ Operational IoT Devices**: ESP32 sensors providing continuous monitoring data
